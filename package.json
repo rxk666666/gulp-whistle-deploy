@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rxk",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^2.2.0",
+    "gulp-util": "^3.0.8",
+    "is-type": "0.0.1",
+    "through2": "^2.0.3"
+  }
 }
